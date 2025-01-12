@@ -1,0 +1,1 @@
+# YourPOS-Offline-App-
