@@ -22,7 +22,7 @@ YourPOS Offline App is a point-of-sale (POS) system designed for offline use, ca
 
 ### Steps to Install
 
-1. Download the APK file from the [releases section](https://github.com/yourrepository/releases) or obtain it from the official source.
+1. Download the APK file from the [releases section]([https://github.com/yourrepository/releases](https://github.com/shahin0075/YourPOS-Offline-App-/releases/tag/v1.0)) or obtain it from the official source.
 2. Enable "Install from unknown sources" in your Android device settings.
 3. Locate the downloaded APK and open it.
 4. Follow the prompts to install the app.
